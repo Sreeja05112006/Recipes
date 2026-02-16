@@ -13,8 +13,8 @@ Recipe Pages:
 H1 heading with dish name.
 Free image of the finished dish.
 "Description" section with 1-2 paragraphs.
-"Ingredients" unordered list (<ul>).
-"Steps" ordered list (<ol>).​
+"Ingredients" unordered list.
+"Steps" ordered list.​
 
 Recipes Included
 Andhra Sambar
